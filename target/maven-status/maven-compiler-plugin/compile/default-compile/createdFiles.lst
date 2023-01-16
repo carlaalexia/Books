@@ -1,0 +1,7 @@
+com\example\obrestdatajpa\ObRestDatajpaApplication.class
+com\example\obrestdatajpa\security\WebSecurityConfig.class
+com\example\obrestdatajpa\controller\HelloController.class
+com\example\obrestdatajpa\entities\Book.class
+com\example\obrestdatajpa\repository\BookRepository.class
+com\example\obrestdatajpa\controller\BookController.class
+com\example\obrestdatajpa\service\BookPriceCalculator.class
