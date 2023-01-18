@@ -5,6 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import com.example.obrestdatajpa.repository.BookRepository;
+import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
 
